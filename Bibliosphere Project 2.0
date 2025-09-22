@@ -75,6 +75,6 @@ This project is grounded in market research and established technical practices:
 | Pilot Partner Withdraws | High | Low | Secure a backup partner; design the onboarding process to be self-service. |
 
 9. AI Disclosure
-*   Prompts Used: "Write a project pitch for a hybrid bookstore where customers use an app to scan QR codes on books to read the eBook for free while in the store, with the option to buy a digital or physical copy."; "simplify the MVA..."; "create a PRD based on this template...".
+*   Prompts Used: "Write a project pitch for a hybrid bookstore where customers use an app to scan QR codes on books to read the eBook for free while in the store, with the option to buy a digital or physical copy."; "simplify the MVA..."; give example of success scenario of this idea..;
 *   Outputs Accepted: The core structure of the pitch and PRD, the scoping of the MVA, and the initial risk assessment were generated based on these prompts.
 *   Outputs Rejected & Revisions: Initial AI-generated citations were fact-checked and replaced with authoritative sources. The system architecture was redesigned for clarity. All content was heavily edited, expanded upon, and refined to meet academic and professional standards, ensuring it reflects my original idea and thorough understanding.
