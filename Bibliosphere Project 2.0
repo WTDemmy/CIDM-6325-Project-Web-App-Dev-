@@ -18,7 +18,7 @@ Bibliosphere is a platform that seamlessly merges the physical and digital book 
 The system architecture, detailed in Figure 1, illustrates the data flow between these components and external services.
 
 **Figure 1: Bibliosphere System Architecture**
-![System Architecture Diagram](path/to/your/System_Sketch.png)
+![System Architecture Diagram](System%20Sketch.png)
 *This diagram outlines the data flow between the user's device, the backend API, external services (OpenLibrary, Stripe), and the bookstore's management dashboard. The geofenced area, controlled by the store's WiFi, is a critical component for enabling the in-store borrowing feature.*
 
  3. Stakeholders
