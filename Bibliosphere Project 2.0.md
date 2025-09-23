@@ -6,7 +6,7 @@
  1. Problem Statement
 The modern book market forces a dichotomy between physical and digital formats. For readers, this means an undesirable choice: purchase a physical book from a local store for its tactile and community benefits, or purchase a digital copy from a large retailer for its convenience and portability. This often results in a fragmented experience; a book discovered in a store cannot be seamlessly continued on a personal device without a second, full-price purchase.
 
-For independent bookstores, this represents an existential challenge. Their primary advantage—being a curated, community-focused physical space—is not monetizable through traditional digital means. They are largely locked out of the digital market, unable to compete with the inventory and logistics of online retailers. The core problem is the commercial and experiential disconnect between the physical and digital reading worlds.
+For independent bookstores, this represents an existential challenge. Their primary advantage being a curated, community-focused physical space is not monetizable through traditional digital means. They are largely locked out of the digital market, unable to compete with the inventory and logistics of online retailers. The core problem is the commercial and experiential disconnect between the physical and digital reading worlds.
 
  2. Proposed Solution: Bibliosphere
 Bibliosphere is a platform that seamlessly merges the physical and digital book experience within the sanctuary of a local bookstore. It consists of three integrated components:
